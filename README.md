@@ -21,6 +21,9 @@
 - Image Upload: Upload an image to the app through the file uploader.
 - Prediction: The app processes the image using the EfficientNetV2B0 model and predicts the top 5 possible categories.
 - Display Results: It shows the most likely category with a confidence score.
+## Example Sample
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7a8030d8-f177-4757-8243-eec1b7e6496f">
+
 ## Next Steps
 - Explore optimizations to improve classification accuracy.
 - Add more categories or extend it to detect more types of images.
